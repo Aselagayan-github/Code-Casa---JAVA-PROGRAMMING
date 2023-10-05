@@ -11,9 +11,9 @@ I constructed this project by using Java and adding GUI (Java Swing) to make it 
 
 ## **Game Screenshots** 📷
 <p float="left">
-	<img src = "Screenshot/1.png" width="200">
-	<img src = "Screenshot/2.png" width="200">
-  <img src = "Screenshot/3.png" width="200">
+	<img src = "Screenshots/Capture1.PNG" width="350">
+	<img src = "Screenshots/Capture2.PNG" width="200">
+  <img src = "Screenshots/Capture3.PNG" width="200">
 </p>
 
 ## **Contribution** 🔥
